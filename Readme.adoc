@@ -1,0 +1,23 @@
+== My DMS
+
+Starting a DMS system for myself with the following main points
+
+* start by scanning a document
+* convert to pdf and add text layer
+* categorize by keyword
+* add a label (suggested and manually)
+* store all information
+* add notices with date to all documents
+* link documents
+* build document maps independent from label
+
+
+== Scan Dcoument
+
+This is done by a scanner hardware
+
+== Add Text Layer
+
+== Categorize Document
+
+== Store Document
